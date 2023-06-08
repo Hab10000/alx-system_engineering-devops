@@ -1,3 +1,2 @@
 #!/bin/bas
-chown hello : betty
-
+chown hello betty:
