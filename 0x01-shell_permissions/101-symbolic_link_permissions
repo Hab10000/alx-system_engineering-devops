@@ -1,0 +1,2 @@
+#!/bin/bash
+chowa -h vincent:staff -hello
