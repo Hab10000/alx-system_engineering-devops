@@ -1,2 +1,2 @@
 #!/bin/bash
-chmpod u+x hello
+chmod u+x hello
