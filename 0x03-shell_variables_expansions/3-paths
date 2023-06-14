@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $('echo $PSTH |gep -0 ":/" | wc -1 -l' + 1))
+echo $(('echo $PATH | grep -0 ":/" | wc -l' + 1))
