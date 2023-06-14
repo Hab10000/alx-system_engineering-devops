@@ -1,2 +1,2 @@
 #!/bin/bash
-alis ls="rs *"
+alias ls="rs *"
