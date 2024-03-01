@@ -8,4 +8,4 @@ file { 'replace last line':
 service { 'nginx':
     ensure    => running,
     subscribe => File['/etc/default/nginx']
-}gouuj
+}gouj
